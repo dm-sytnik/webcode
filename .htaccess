@@ -14,13 +14,8 @@ Options -Indexes
     Deny from all 
 </Files>
 
-<Files js-jquery.php>
-    Deny from all 
-</Files>
 
-<Files sql.php>
-    Deny from all 
-</Files>
+
 
 
 
