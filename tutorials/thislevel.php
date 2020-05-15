@@ -1,7 +1,6 @@
-<?php // подключение констант и подобного
+<?php
 
-// в файлах, лежащих на этом же уровне, будет включена эта переменная
-$level = ''; // ../ == папка, уровень выше на 1
+$level = '../'; 
 
 require_once($level.'includes/db_connection.php');
 
@@ -16,3 +15,5 @@ require_once($level.LAYOUT.'functions-layout.php');
 		$sidebar = array(                            								
 				
 				 );
+
+
