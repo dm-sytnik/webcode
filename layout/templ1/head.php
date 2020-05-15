@@ -12,4 +12,5 @@
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
     
 	<!-- Link to your css file -->
-	<link rel="stylesheet" href="/css/w3-limited-big.css">
+	<link rel="stylesheet" href="/css/w3-limited-small.css">
+    <link rel="stylesheet" href="/css/jquery.dataTables.css">
