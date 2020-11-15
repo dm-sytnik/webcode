@@ -8,8 +8,8 @@
 
 <div style="text-align:center;" >
     
-    <img src="/images/240x400-1.png" style="padding:15px 0px; " >
-    <img src="/images/240x400-2.png" style="padding:15px 0px; " >
+    <img src="/img/240x400-1.png" style=" padding:15px;" >
+    <img src="/img/240x400-2.png" style=" padding:15px;" >
     
 </div>
 

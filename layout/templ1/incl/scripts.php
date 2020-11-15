@@ -1,5 +1,3 @@
-   
-<!-- scripts -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 	<script src="/js/jquery-3.5.1.min.js"></script>
 
@@ -15,12 +13,4 @@
     w3CodeColor();
     </script>
 
-    <!--  Datatables -->
-    <script type="text/javascript" language="javascript" src="/js/jquery.dataTables.min.js"></script>
-    <script>
-      $(document).ready( function () {
-      $('#table_id').DataTable();
-     } );
-    </script>
-<!-- /scripts -->
 
