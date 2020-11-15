@@ -4,7 +4,7 @@
 	<meta name="author" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<title><?php if(isset($title)){echo $title; } ?> | sytnic.ru</title>
+	<title><?php if(isset($title)){echo $title; } ?> | bike5</title>
 
 	<link rel="shortcut icon" href="" type="image/x-icon">
 	<link rel="apple-touch-icon" href="">
@@ -12,5 +12,4 @@
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
     
 	<!-- Link to your css file -->
-	<link rel="stylesheet" href="/css/w3-limited-small.css">
-    <link rel="stylesheet" href="/css/jquery.dataTables.css">
+	<link rel="stylesheet" href="/css/w3-limited-big.css">
